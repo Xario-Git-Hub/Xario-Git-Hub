@@ -1,0 +1,507 @@
+        * {
+            padding: 0%;
+            margin: 0%;
+            scroll-behavior: smooth;
+            font-family: 'Fira Sans', sans-serif;
+        }
+        
+        .Head {
+            position: relative;
+            height: 600px;
+            width: 100%;
+        }
+        
+        .img-1 {
+            position: relative;
+            width: 100%;
+            height: 600px;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        
+        #face {
+            position: absolute;
+            color: white;
+            font-size: 20px;
+            top: 20px;
+            left: 1150px;
+        }
+        
+        #insta {
+            position: absolute;
+            color: white;
+            font-size: 20px;
+            top: 20px;
+            left: 1200px;
+        }
+        
+        #linked {
+            position: absolute;
+            color: white;
+            font-size: 20px;
+            top: 20px;
+            left: 1250px;
+        }
+        
+        #twit {
+            position: absolute;
+            color: white;
+            font-size: 20px;
+            top: 20px;
+            left: 1300px;
+        }
+        
+        #logo {
+            position: absolute;
+            color: white;
+            font-size: 60px;
+            top: 10px;
+            left: 150px;
+        }
+        
+        #menu {
+            position: absolute;
+            color: white;
+            font-size: 40px;
+            top: 10px;
+            left: 20px;
+        }
+        
+        .nav {
+            position: absolute;
+            height: 100px;
+            width: 500px;
+            left: 10px;
+            top: 10px;
+        }
+        
+        .nav ul li {
+            float: left;
+            text-decoration: none;
+            list-style: none;
+            margin-top: 20px;
+            margin-left: 80px;
+        }
+        
+        .nav ul li a {
+            position: absolute;
+            list-style: none;
+            margin-left: 600px;
+            float: left;
+            list-style: none;
+            color: white;
+            text-decoration: none;
+        }
+        
+        .nav ul li a:hover {
+            color: #008155;
+            transition: .6s;
+        }
+        
+        .box {
+            position: absolute;
+            height: 350px;
+            width: 400px;
+            top: 120px;
+            left: 850px;
+            background-color: #008155;
+            border-radius: 5px;
+        }
+        
+        #arrow {
+            position: absolute;
+            color: white;
+            font-size: 30px;
+            top: 280px;
+            left: 180px;
+        }
+        
+        .heading-1 {
+            position: absolute;
+            background-color: black;
+            color: white;
+            font-size: 60px;
+            left: 650px;
+            top: 180px;
+            border-radius: 5px;
+        }
+        
+        .heading-2 {
+            position: absolute;
+            background-color: black;
+            color: white;
+            font-size: 70px;
+            left: 930px;
+            top: 260px;
+            border-radius: 5px;
+        }
+        
+        .heading-2 {
+            position: absolute;
+            background-color: black;
+            color: white;
+            font-size: 70px;
+            left: 930px;
+            top: 260px;
+            border-radius: 5px;
+        }
+        
+        .img-2 {
+            margin-top: 100px;
+            margin-left: 700px;
+            height: 400px;
+            width: 500px;
+            box-shadow: 5px 4px 5px 4px grey;
+            border-radius: 5px;
+        }
+        
+        .heading-4 {
+            position: absolute;
+            margin-left: 350px;
+            margin-top: -300px;
+            color: black;
+            font-size: 70px;
+        }
+        
+        .heading-5 {
+            position: absolute;
+            margin-left: 350px;
+            margin-top: -200px;
+            background-color: #008155;
+            color: white;
+            font-size: 70px;
+            border-radius: 5px;
+        }
+        
+        .section-1 {
+            margin-top: 200px;
+            margin-left: 800px;
+            font-size: 20px;
+            text-align: center;
+            width: 350px;
+        }
+        
+        .section-1 i {
+            font-size: 95px;
+            padding-bottom: 20PX;
+        }
+        
+        .section-2 {
+            margin-top: -350px;
+            margin-left: 200px;
+            font-size: 20px;
+            text-align: left;
+            width: 350px;
+        }
+        
+        .section-2 i {
+            font-size: 95px;
+            float: left;
+            margin-right: 20px;
+        }
+        
+        .section-3 {
+            margin-top: 350px;
+            margin-left: 200px;
+            font-size: 20px;
+            text-align: right;
+            width: 350px;
+        }
+        
+        .section-3 i {
+            position: absolute;
+            font-size: 95px;
+            float: right;
+            margin-left: 20px;
+        }
+        
+        .img-3 {
+            margin-top: 600px;
+            background-attachment: fixed;
+            height: 500px;
+            width: 100%;
+        }
+        
+        .section-4 {
+            position: absolute;
+            top: 1950px;
+            left: 900px;
+            height: 400px;
+            width: 250px;
+            background-color: rgba(0, 0, 0, 0.445);
+        }
+        
+        .section-4 h6 {
+            position: absolute;
+            top: 200px;
+            left: 50px;
+            color: white;
+            width: 180px;
+        }
+        
+        .section-4 h1 {
+            position: absolute;
+            background-color: #008155;
+            color: white;
+            top: 60px;
+            left: -310px;
+            font-size: 40px;
+            text-align: center;
+        }
+        
+        .section-4-btn {
+            margin-top: 300px;
+            margin-left: 50px;
+            height: 30px;
+            text-align: center;
+            width: 150px;
+            padding-top: 10px;
+            color: white;
+            border-radius: 20px;
+            border: solid white 2px;
+        }
+        
+        .section-4-btn:hover {
+            color: #008155;
+            background-color: rgba(255, 255, 255, 0.432);
+        }
+        
+        .img-4 {
+            margin-top: 50px;
+            margin-left: 500px;
+            height: 550px;
+            width: 800px;
+        }
+        
+        .heading-6 {
+            position: absolute;
+            margin-left: 200px;
+            margin-top: -300px;
+            color: black;
+            font-size: 70px;
+        }
+        
+        .heading-7 {
+            position: absolute;
+            margin-left: 200px;
+            margin-top: -200px;
+            background-color: #008155;
+            color: white;
+            font-size: 70px;
+            border-radius: 5px;
+            letter-spacing: 3px;
+        }
+        
+        .img-5 {
+            margin-left: 200px;
+            margin-top: 50px;
+        }
+        
+        .customer-1 h1 {
+            margin-left: 200px;
+        }
+        
+        .customer-1 h3 {
+            margin-left: 200px;
+        }
+        
+        .customer-1 i {
+            position: absolute;
+            top: 3050px;
+            left: 500px;
+            color: #008155;
+            font-size: 30px;
+        }
+        
+        .customer-1 p {
+            position: absolute;
+            margin-left: 500px;
+            width: 750px;
+            text-align: left;
+            margin-top: -50px;
+        }
+        
+        .about {
+            position: relative;
+            top: 80px;
+            height: 400px;
+            width: 100%;
+            background-color: rgba(8, 8, 8, 0.767);
+        }
+        
+        .about-1 {
+            position: absolute;
+            top: 70px;
+            left: 150px;
+            height: 300px;
+            width: 300px;
+            background-color: #008155;
+        }
+        
+        .about-1 h1 {
+            position: absolute;
+            font-size: 50px;
+            color: white;
+            left: -180px;
+            top: 80px;
+            width: 700px;
+        }
+        
+        .about-1 h4 {
+            position: absolute;
+            font-size: 20px;
+            color: white;
+            left: 20px;
+            top: 50px;
+            width: 700px;
+        }
+        
+        .about-1 p {
+            position: absolute;
+            color: white;
+            left: -450px;
+            width: 200px;
+            top: 230px;
+            text-align: center;
+        }
+        
+        .about-2 {
+            position: absolute;
+            color: white;
+            left: 800px;
+            top: 100px;
+        }
+        
+        .about-2 p {
+            position: absolute;
+            display: inline;
+            right: -680px;
+            top: 100px;
+            color: white;
+        }
+        
+        .about-3 {
+            position: absolute;
+            color: white;
+            left: 1100px;
+            top: 100px;
+        }
+        
+        .about-3 p {
+            position: absolute;
+            left: -530px;
+            top: 100px;
+            color: white;
+        }
+        
+        .about-4 {
+            position: absolute;
+            color: white;
+            left: 950px;
+            top: 250px;
+        }
+        
+        .about-4 p {
+            position: absolute;
+            left: -550px;
+            top: 100px;
+            color: white;
+        }
+        
+        .Form {
+            position: relative;
+            height: 100px;
+        }
+        
+        .form-left {
+            position: relative;
+            height: 400px;
+            width: 500px;
+            left: 100px;
+            top: 150px;
+            background-color: white;
+        }
+        
+        .heading-8 {
+            position: absolute;
+            font-size: 50PX;
+            color: black;
+            left: 100PX;
+        }
+        
+        .heading-9 {
+            position: absolute;
+            font-size: 50PX;
+            color: white;
+            background-color: #008155;
+            top: 70px;
+            left: 100px;
+            letter-spacing: 2px;
+        }
+        
+        #plane {
+            position: absolute;
+            top: 200px;
+            left: 150px;
+            font-size: 20px;
+            letter-spacing: 2px;
+        }
+        
+        #phone {
+            position: absolute;
+            top: 280px;
+            left: 150px;
+            font-size: 20px;
+            letter-spacing: 2px;
+        }
+        
+        #map {
+            position: absolute;
+            top: 360px;
+            left: 150px;
+            font-size: 20px;
+            letter-spacing: 2px;
+        }
+        
+        .form-right {
+            position: relative;
+            height: 500px;
+            width: 600px;
+            top: -300px;
+            left: 700px;
+            background-color: white;
+            padding-top: 50px;
+            margin-bottom: 30px;
+            background-color: transparent;
+            text-align: center;
+        }
+        
+        .form-right input,
+        textarea {
+            width: 500px;
+            margin-bottom: 45px;
+            height: 20px;
+            text-align: left;
+            border-top: none;
+            border-left: none;
+            border-right: none;
+            background-color: transparent;
+        }
+        
+        .form-right-btn {
+            position: absolute;
+            height: 40px;
+            width: 350px;
+            top: 350px;
+            left: 100px;
+            color: white;
+            text-align: center;
+            padding-top: 20px;
+            background-color: black;
+            border-radius: 50px;
+        }
+        
+        .form-right-btn:hover {
+            background-color: #008155;
+            transition: .6s;
+        }

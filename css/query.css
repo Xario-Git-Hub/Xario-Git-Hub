@@ -1,0 +1,314 @@
+@media (max-width: 768px) {
+    .img-1 {
+        height: 400px;
+        width: 100%;
+    }
+    #logo {
+        left: 350px;
+        font-size: 40px;
+    }
+    #face {
+        left: 550px;
+    }
+    #insta {
+        left: 600px;
+    }
+    #linked {
+        left: 650px;
+    }
+    #twit {
+        left: 700px;
+    }
+    .nav ul {
+        display: none;
+    }
+    .box {
+        left: 350px;
+        height: 250px;
+        width: 300px;
+    }
+    .heading-1 {
+        left: 250px;
+        font-size: 40px;
+    }
+    .heading-2 {
+        top: 230px;
+        left: 460px;
+        font-size: 40px;
+    }
+    #arrow {
+        top: 200px;
+        left: 80px;
+    }
+    .box-2 {
+        position: relative;
+        top: 100px;
+    }
+    .img-2 {
+        margin-top: 0px;
+        margin-left: 300px;
+        height: 400px;
+        width: 400px;
+    }
+    .heading-4 {
+        left: -300px;
+    }
+    .heading-5 {
+        left: -300px;
+    }
+    .section-1 {
+        margin-left: 400px;
+        margin-top: 400px;
+    }
+    .section-2 {
+        margin-left: 10px;
+    }
+    .section-3 {
+        margin-left: 10px;
+    }
+    .section-4 {
+        margin-left: -450px;
+        height: 350px;
+        top: 1850px;
+    }
+    .section-4 h1 {
+        left: -50px;
+    }
+    .img-4 {
+        height: 400px;
+        width: 500px;
+        margin-left: 200px;
+    }
+    .heading-6 {
+        left: -150px;
+        font-size: 50px;
+    }
+    .heading-7 {
+        left: -150px;
+        font-size: 50px;
+    }
+    .img-5 {
+        margin-left: 50px;
+    }
+    .customer-1 h1 {
+        margin-left: 50px;
+    }
+    .customer-1 h3 {
+        margin-left: 50px;
+    }
+    .customer-1 i {
+        top: 2830px;
+        left: 300px;
+    }
+    .customer-1 p {
+        left: -200px;
+        width: 450px;
+    }
+    .about-1 {
+        left: 20px;
+    }
+    .about-1 h1 {
+        left: -30px;
+        font-size: 35px;
+    }
+    .about-2 {
+        display: none;
+    }
+    .about-3 {
+        display: none;
+    }
+    .about-4 {
+        display: none;
+    }
+    .form-left {
+        left: -90px;
+    }
+    .form-right {
+        left: 300px;
+    }
+    .form-right input,
+    textarea {
+        width: 300px;
+    }
+    .form-right-btn {
+        left: 180px;
+        width: 250px;
+    }
+}
+
+@media (max-width: 480px) {
+    .img-1 {
+        height: 400px;
+        width: 100%;
+    }
+    #menu {
+        left: 0px;
+    }
+    #logo {
+        left: 410px;
+        font-size: 40px;
+    }
+    #face {
+        left: 150px;
+    }
+    #insta {
+        left: 200px;
+    }
+    #linked {
+        left: 250px;
+    }
+    #twit {
+        left: 300px;
+    }
+    .nav ul {
+        display: none;
+    }
+    .box {
+        left: 200px;
+        height: 250px;
+        width: 250px;
+    }
+    .heading-1 {
+        left: 70px;
+        font-size: 40px;
+    }
+    .heading-2 {
+        top: 230px;
+        left: 280px;
+        font-size: 40px;
+    }
+    #arrow {
+        top: 200px;
+        left: 50px;
+    }
+    .box-2 {
+        position: relative;
+        top: 100px;
+    }
+    .img-2 {
+        margin-top: 0px;
+        margin-left: 100px;
+        height: 350px;
+        width: 350px;
+    }
+    .heading-4 {
+        top: 250px;
+        left: -320px;
+        font-size: 55px;
+    }
+    .heading-5 {
+        top: 250px;
+        left: -320px;
+        font-size: 55px;
+    }
+    .section-1 {
+        margin-left: 70px;
+        margin-top: 200px;
+    }
+    .section-1 p {
+        font-size: 15px;
+    }
+    .section-1 i {
+        font-size: 55px;
+    }
+    .section-2 {
+        position: absolute;
+        margin-left: 10px;
+        margin-top: -200px;
+    }
+    .section-2 i {
+        font-size: 55px;
+    }
+    .section-2 p {
+        font-size: 15px;
+    }
+    .section-3 {
+        margin-left: 90px;
+        margin-top: 90px;
+        width: 300px;
+    }
+    .section-3 i {
+        font-size: 55px;
+    }
+    .section-3 p {
+        font-size: 15px;
+    }
+    .section-4 {
+        margin-left: -700px;
+        height: 350px;
+        top: 1400px;
+    }
+    .section-4 h1 {
+        left: -20px;
+    }
+    .img-3 {
+        margin-top: 700px;
+    }
+    .img-4 {
+        height: 350px;
+        width: 350px;
+        margin-left: 100px;
+    }
+    .heading-6 {
+        left: -170px;
+        font-size: 40px;
+    }
+    .heading-7 {
+        left: -170px;
+        font-size: 40px;
+    }
+    .img-5 {
+        margin-left: 20px;
+    }
+    .customer-1 h1 {
+        margin-left: 20px;
+    }
+    .customer-1 h3 {
+        margin-left: 20px;
+    }
+    .customer-1 i {
+        top: 2250px;
+        left: 260px;
+    }
+    .customer-1 p {
+        top: 2350px;
+        left: -240px;
+        width: 230px;
+    }
+    .about-1 {
+        left: 90px;
+    }
+    .about-1 h1 {
+        left: -65px;
+        font-size: 35px;
+    }
+    .about-1 p {
+        top: 250px;
+        left: -470px;
+        font-size: large;
+    }
+    .about-2 {
+        display: none;
+    }
+    .about-3 {
+        display: none;
+    }
+    .about-4 {
+        display: none;
+    }
+    .form-left {
+        left: -50px;
+    }
+    .form-right {
+        top: 200px;
+        left: -50px;
+    }
+    .form-right input,
+    textarea {
+        width: 300px;
+    }
+    .form-right-btn {
+        left: 180px;
+        width: 250px;
+    }
+}
